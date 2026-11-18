@@ -1,8 +1,8 @@
-package blueprint.workflowmodule.loanrepayment;
+package blueprint.workflowmodule.loanapproval.loanrepayment;
 
 import java.util.UUID;
 
-import blueprint.workflowmodule.loanrepayment.api.LoanRepaymentApi;
+import blueprint.workflowmodule.loanapproval.loanrepayment.api.LoanRepaymentApi;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import lombok.extern.slf4j.Slf4j;

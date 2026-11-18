@@ -1,10 +1,10 @@
-package blueprint.workflowmodule.loanrepayment;
+package blueprint.workflowmodule.loanapproval.loanrepayment;
 
 import java.util.List;
 import java.util.Optional;
 
-import blueprint.workflowmodule.loanrepayment.model.Repayment;
-import blueprint.workflowmodule.loanrepayment.model.RepaymentRepository;
+import blueprint.workflowmodule.loanapproval.loanrepayment.model.Repayment;
+import blueprint.workflowmodule.loanapproval.loanrepayment.model.RepaymentRepository;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;

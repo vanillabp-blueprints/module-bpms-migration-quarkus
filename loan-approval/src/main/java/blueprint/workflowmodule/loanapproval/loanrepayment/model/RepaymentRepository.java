@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.loanrepayment.model;
+package blueprint.workflowmodule.loanapproval.loanrepayment.model;
 
 import io.quarkus.hibernate.orm.panache.PanacheRepositoryBase;
 import jakarta.enterprise.context.ApplicationScoped;

@@ -1,8 +1,8 @@
-package blueprint.workflowmodule.loanrepayment;
+package blueprint.workflowmodule.loanapproval.loanrepayment;
 
 import java.util.List;
 
-import blueprint.workflowmodule.loanrepayment.model.Repayment;
+import blueprint.workflowmodule.loanapproval.loanrepayment.model.Repayment;
 import io.vanillabp.spi.process.ProcessDefinition;
 import io.vanillabp.spi.process.ProcessService;
 import jakarta.enterprise.context.ApplicationScoped;
